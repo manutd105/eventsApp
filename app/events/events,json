@@ -1,0 +1,79 @@
+[
+    {
+        "age": 0, 
+        "name": "Event A", 
+        "imageUrl": "img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "location": "Miami, FL", 
+        "snippet": "Forget the cold steel trappings of a Berlin Warehouse; these days, serious techno heads do their raving in a hunting forest in Paris. Confused? Let us explain: in 2015, the forested acres of Bois de Vicennes plays host to Weather Festival, a huge three-day rave (35,000+ people) comprised of 70 dance acts – equal parts major label stars and underground collectives – and five stages. On offer is everything from minimal techno to nu-disco. The only downside is the long bar queues. Our advice: dance yourself into an altered state instead."
+    }, 
+    {
+        "age": 1, 
+        "name": "Event B", 
+        "imageUrl": "img/phones/motorola-xoom.0.jpg", 
+        "location": "San Antonio, TX", 
+        "snippet": "The Brecon Beacons, specifically the bucolic parkland of the Black Mountains, is the setting for Green Man, one of the UK’s finest festivals. The location is perfect for such an eco-friendly and inclusive event, where every year there’s so much going on it’s hard to know where to start: film, comedy, family friendly areas such as Einstein’s Garden, great food and drink. Among this year’s big music acts are nerdy electropop kings Hot Chip and experimental US songstress St Vincent but the jewel in the crown is a Saturday night headline slot from brill Welsh indie rockers Super Furry Animals. Corking."
+    }, 
+    {
+        "age": 2, 
+        "name": "Event C", 
+        "imageUrl": "img/phones/motorola-atrix-4g.0.jpg", 
+        "location": "Princeton, NJ", 
+        "snippet": "Las Vegas is like no place on earth, the lovechild of Dubai and a Disneyland titty bar. On day one, your jaw drops at the surreal, 1.21-gigawatt splendor of it all. Day two, your body is reeling from endless buffets, free booze and jackpot chimes. Day three, you want to set humanity on fire. On the outskirts of town at the Motor Speedway, Electric Daisy Carnival is pure, condensed Vegas. There is a VIP ferris wheel. Helicopters shuttle in high rollers. The audience is soaked in MDMA and spray tan. Every millionaire DJ that plays the laser-riddled nightclubs on the strip is here. EDC broke EDM in America, and turned the idea of Ibiza into a Michael Bay movie. Once you let the neon and bass wash over you, it is the time of your life. But you might need a mind wipe and cold shower afterward."
+    }, 
+    {
+        "age": 3, 
+        "name": "Event D", 
+        "imageUrl": "img/phones/dell-streak-7.0.jpg", 
+        "location": "Buffalo, NY", 
+        "snippet": "Held in a museum of modern art, the Musée d’art contemporain de Montréal, Mutek is perhaps too intellectual to be called a festival. Please refrain from pumping your fist to the stoic German tech-head squeezing alien tintinnabulation from his laptop. Several supreme purveyors of microhouse, ambient, drone and other bleeding-edge electronica head over from Europe to make their North American debuts. Fret not, Canada is too friendly and full of poutine to stroke its chin so seriously. Afterward, you’re apt to share a bottle of wine with a new friend at some head-to-tail joint."
+    }, 
+    {
+        "age": 4, 
+        "name": "Event E", 
+        "imageUrl": "img/phones/samsung-gem.0.jpg", 
+        "location": "New Orleans, LA", 
+        "snippet": "When it comes to throwing huge outrageous EDM bashes, only Ultra can compete with Tomorrowland. The Belgian festival, based in the appropriately named town of Boom, has attracted the biggest DJs and electronic music makers in the world for more than ten years now – topping the bill in 2015: Alesso, Avicii, David Guetta and Carl Cox – and the party just keeps getting bigger and better. Fest-goers can expect 15 stages of music, volcanoes, giant disco balls, even bigger butterflies and industrial-sized quantities of confetti. Magic."
+    }, 
+    {
+        "age": 5, 
+        "name": "FEvent F", 
+        "imageUrl": "img/phones/dell-venue.0.jpg", 
+        "location": "Seattle, WA", 
+        "snippet": "Indie trainspotters and regular trainspotters come together to swap Marine Girls 7” and jot down engine numbers at the annual Indietracks festival in the Derbyshire countryside, which combines the twin delights of heritage railway and live music – including in a church and on a steam train. This year the duffel coat massive will be swooning to young romantics The Pains of Being Pure at Heart and a barrel-load of bedroom indie from the likes of Baker Island, Chorusgirl, Colour Me Wednesday, plus dancing up a storm to colourful genre-benders The Go! Team and DJs from ace London club night How Does it Feel to be Loved? Delightful."
+    }, 
+    {
+        "age": 6, 
+        "name": "Event G", 
+        "imageUrl": "img/phones/nexus-s.0.jpg", 
+        "location": "Boulder, CO", 
+        "snippet": "Located on the picturesque Suruga Bay coast, this eclectic summer festival is powered by bio-diesel fuel (as opposed to beer and Rock like other festivals), making for an eco-friendly vibe. Itadaki’s largely homegrown line-up will smash your preconceptions of Japanese music – it’s not all cheesy j-poppers and Western copycats, you know – and includes Rhymester, Kemuri, excellent free-jazzers Shibusashirazu Orchestra and the confusingly named Ogre You Asshole. Our tip: remember to bring a lighter to hold aloft during ‘candle time’, the late-night music sessions."
+    }, 
+    {
+        "age": 7, 
+        "name": "Event H", 
+        "imageUrl": "img/phones/lg-axis.0.jpg", 
+        "location": "San Fransico, CA", 
+        "snippet": "A jazz festival, yes, but also much more besides – the organisers of Montreux like to cherry pick acts from across the musical map. Every year visitors can catch big names from rock, hip-hop and pop – even if the average punter may baulk at some of the prices – and a plethora of free concerts (everything from nightclub sessions to parties in a cave). In 2015, heavy hitters like Lady Gaga and Tony Bennett, Lionel Richie and beat-heavy dance legends The Chemical Brother rub up against newer acts like blub-stepper James Blake and Foals."
+    }, 
+    {
+        "age": 8, 
+        "name": "Event I", 
+        "imageUrl": "img/phones/samsung-galaxy-tab.0.jpg", 
+        "location": "Chicago, MI", 
+        "snippet": "The blue lake and golden sands of Lake Malawi is the location for this magical African festival. When you’re not basking in the majesty of nature – sunrise over the lake is truly awe-inspiring – or enjoying the cheap beer, there’s plenty of music – a pleasing mix of international acts, homegrown talent and party-staring DJs – to see and hear. On the bill at Lake of Stars this year are Mercury Prize winners Young Fathers, Danny Kalima, Gwamba and more."
+    }, 
+    {
+        "age": 9, 
+        "name": "Event J", 
+        "imageUrl": "img/phones/samsung-showcase-a-galaxy-s-phone.0.jpg", 
+        "location": "Boston, MA", 
+        "snippet": "This ever-expanding festival in the glorious post-modern surroundings of Parc de La Villette offers seven days – some more packed than others – of eclectic music. Two of those days include free outside gigs which means things tend to get crowded: our advice is to grab a place on the bridge for a better view of the action. Villette Sonique is known for its exciting collision of rock and electro acts, and this year is no exception: there’s everything from glorious garage rock clatter (The Gories, Thee Oh Sees) to introspective folk (Grouper, Sun Kil Moon) to hard-edged, industrial-tinged electronica from Cabaret Voltaire and Carter-Tutti-Void."
+    }, 
+    {
+        "age": 10, 
+        "name": "Event K", 
+        "imageUrl": "img/phones/droid-2-global-by-motorola.0.jpg", 
+        "location": "New York City, NY", 
+        "snippet": "This boutique festival in the jaw-dropping surroundings of Bulgaria’s Rhodope mountain range is a chance to commune with nature to a blissful soundtrack of afterhours house, disco and techno. Meadows in the Mountains also has an honourable commitment to eco-friendly partying: the organisers are committed to sourcing timber shacks, art installations and stages from the local forest. Appearing on those stages are all kinds of live bands: funk, dub, alternative and jazz ones and, of course, the obligatory earnest men with acoustic guitars. Our tip: stick around for the post-festival pool party, tickets for which are sold separately."
+    }
+]
