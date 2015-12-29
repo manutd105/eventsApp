@@ -1,0 +1,1 @@
+var eventsServices = angular.module('eventsServices', ['ngResource']);
